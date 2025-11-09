@@ -45,24 +45,24 @@ This system acts like a **mini encrypted vault**, combining encryption, digital 
       +--------+--------+
                |
 
-+-----------+------------+
-| |
-v v
+    +-----------+------------+
+    |                        |
+    v                        v
 +--------------+ +------------------+
 | crypto_utils | | intrusion_monitor|
-| (AES + RSA + | | (log watcher & |
-| signature) | | alert generator)|
+| (AES + RSA + | | (log watcher &   |
+| signature) | | alert generator)   |
 +--------------+ +------------------+
-|
-v
-+--------------------------+
-| vault/ (encrypted files) |
-+--------------------------+
-|
-v
-+--------------------------+
-| ledger.json (tamper log) |
-+--------------------------+
+                |
+                v
+    +--------------------------+
+    | vault/ (encrypted files) |
+    +--------------------------+
+                |
+                v
+    +--------------------------+
+    | ledger.json (tamper log) |
+    +--------------------------+
 
 ---
 
