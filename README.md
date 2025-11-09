@@ -139,8 +139,9 @@ python intrusion_monitor.py
 ## 👩‍💻 Author
 
 **Aditi Chhajed**  
-B.Tech Computer Science — Cyber Security Mini Project  
-VJTI College
+B.Tech Information Technolody — Cyber Security Mini Project  
+VJTI College - 2022-26
+abchhajed_b22@it.vjti.ac.in
 
 ---
 
