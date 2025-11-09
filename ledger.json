@@ -1,0 +1,14 @@
+{
+  "chain": [
+    {
+      "action": "store",
+      "file": "test.txt.enc",
+      "original_name": "test.txt",
+      "timestamp": "2025-11-09T10:01:02.767399Z",
+      "blob_sha256": "854654ab6b8840ab44f2b1e2eeac282c0f0546e16639644dc00e66fb3b604152",
+      "prev_hash": "",
+      "entry_hash": "1fdecf9cac23afacce3e77f8c224ea91f7440311301671f4b0fa572065c3df5d",
+      "signature": "HsCmVdrNGq3C8PRuyYdsCMgF9B8kSd8M3bQrF9T6ve12ABX+YcBLE5u5iB3k6nejdOEhfxEl0Cjj8zJYsf3r6zrWnfJBm4V8vsjEanxnoU1INoMRRDFe8bsG+Y9gf3yo6a1PHmESQ0+r7E3jDjDrVF+T/vxJd3m0Z6qFX8GhH9g8KSHhHQFxBGYaKhh7AGUgDqGn+n5bqloZGtDuJ9ZcD8qrRjxBYkcmTOcPvVPa429sa14mL+CeMo2jQaMfoBlAno35H5IaxjiY5grvH6CoQ4lfp2ZZPr2K5/0b146tqkynPnnATPkuXr9QWeHt/vcoCinuDn2zGf4oZWRNy3+zEA=="
+    }
+  ]
+}
